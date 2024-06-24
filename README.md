@@ -1,3 +1,1 @@
-   Website is about Formula 1.
-It is basic website with small information.
-I used Flask framework.
+ეს არის ვებსაიტი Formula 1 - ზე. კოდი დაწერილია Flask-ის framework-ში. საიტზე ვიმუშავეთ - ბეჟან ბონდარენკო, დემეტრე მიქელაძე.
